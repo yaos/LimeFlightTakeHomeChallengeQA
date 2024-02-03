@@ -30,7 +30,7 @@ https://test.limeflight.com/pricing/
 
 # Expected deliverables
 1. Create a detailed bug with clear and repeatable steps, if found.
-2. Write test cases for the all contact form and pricing form scenarios:
+2. Write test cases for the all contact form and pricing form scenarios.
 3. Write automation tests to cover cases.
 4. Setup Github actions to run the automation tests inside the repository
 

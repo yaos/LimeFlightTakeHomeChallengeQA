@@ -21,6 +21,7 @@ https://test.limeflight.com/
 <img width="1916" alt="image" src="https://github.com/yaos/LimeFlightTakeHomeChallengeQA/assets/2326083/1a549df5-2979-453d-ba59-9f42961782d6">
 Pricing form
 https://test.limeflight.com/pricing/
+<img width="742" alt="image" src="https://github.com/yaos/LimeFlightTakeHomeChallengeQA/assets/2326083/08a06476-fd07-497e-8664-ba909ec97bed">
 
 
 # Expected deliverables
